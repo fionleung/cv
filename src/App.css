@@ -1,0 +1,45 @@
+h1{
+  font-size: 4vw;
+  color:#708D81;
+}
+
+h2{
+  font-size:2.5rem;
+  color:#708D81;
+}
+
+h3{
+  font-size:1.5rem;
+  color:#c09891;
+}
+
+p{
+  font-size:1.5vw;
+  color:#708D81;
+}
+
+li{
+  color:#2d3142;
+}
+
+a{
+  color:white;
+}
+
+@media (max-width: 920px){
+  h1{
+    font-size: 5vw;
+  }
+  
+  h2{
+    font-size:2rem
+  }
+  
+  h3{
+    font-size:1.5rem
+  }
+  
+  p{
+    font-size:3vw;
+  }
+}

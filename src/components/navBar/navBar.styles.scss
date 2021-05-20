@@ -1,0 +1,44 @@
+.navbar{
+   position:absolute;
+   top:0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    background-color:transparent;
+    transition: all .2s ease;
+   
+    ul{
+        list-style-type: none;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        margin-right: 30px;
+        margin-left: 30px;
+        li{
+          text-align: center;
+          padding: 1em;
+          cursor: pointer;
+          &:hover{
+            color: white;
+          }
+          a{
+            text-decoration: none;
+           
+          }
+        }
+    }
+    @media (max-width: 920px){
+        display:none;
+    }
+
+}
+
+.scrolled{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:#708D81;
+    opacity: 0.8;
+  }

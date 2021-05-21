@@ -1,4 +1,5 @@
 const path= window.location.href;
+
 export const data=[
     {
     sectionName:'Web/APP development',
@@ -10,7 +11,7 @@ export const data=[
         '"MERN"stack: MongoDB + Express + REACT + Node.js'],
         imgurl:path+'/img/money.jpg',
         button:'View website',
-        link:'https://money-thecat.herokuapp.com/',
+        link:'https:/money-thecat.herokuapp.com/',
         id:1
     },
     {title:'iOS App for Cloud-based Multi-Vehicle Control System',

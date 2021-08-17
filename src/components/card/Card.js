@@ -7,7 +7,7 @@ export default function Card({lastitem,title,content,imgurl,videourl,link,button
     const {width}=useWindowDimensions()
     const videowidth= width>920?480:Math.floor(width*0.8)
     const videoheight=Math.floor(videowidth*9/16)
-   console.log(videowidth);
+   
     return (
         <div>
         <h2>{title}</h2>

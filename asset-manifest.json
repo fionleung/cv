@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/cv/static/css/main.f5347c9a.chunk.css",
-    "main.js": "/cv/static/js/main.eb6b55c4.chunk.js",
-    "main.js.map": "/cv/static/js/main.eb6b55c4.chunk.js.map",
+    "main.css": "/cv/static/css/main.e84ee8e6.chunk.css",
+    "main.js": "/cv/static/js/main.4ad211c4.chunk.js",
+    "main.js.map": "/cv/static/js/main.4ad211c4.chunk.js.map",
     "reactPlayerDailyMotion.js": "/cv/static/js/reactPlayerDailyMotion.f864eea3.chunk.js",
     "reactPlayerDailyMotion.js.map": "/cv/static/js/reactPlayerDailyMotion.f864eea3.chunk.js.map",
     "reactPlayerFacebook.js": "/cv/static/js/reactPlayerFacebook.525a76b9.chunk.js",
@@ -36,13 +36,13 @@
     "static/js/16.d9293f5b.chunk.js": "/cv/static/js/16.d9293f5b.chunk.js",
     "static/js/16.d9293f5b.chunk.js.map": "/cv/static/js/16.d9293f5b.chunk.js.map",
     "index.html": "/cv/index.html",
-    "static/css/main.f5347c9a.chunk.css.map": "/cv/static/css/main.f5347c9a.chunk.css.map",
+    "static/css/main.e84ee8e6.chunk.css.map": "/cv/static/css/main.e84ee8e6.chunk.css.map",
     "static/js/15.95c49daf.chunk.js.LICENSE.txt": "/cv/static/js/15.95c49daf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bd322a46.js",
     "static/js/15.95c49daf.chunk.js",
-    "static/css/main.f5347c9a.chunk.css",
-    "static/js/main.eb6b55c4.chunk.js"
+    "static/css/main.e84ee8e6.chunk.css",
+    "static/js/main.4ad211c4.chunk.js"
   ]
 }
